@@ -1,6 +1,7 @@
 ### 简单部署样例（简单3台centos虚拟机包含一台nfs，两台k8s集群）
 
 * 以k8s-cluster搭建k8s集群
+  # 一、部署K8S之前的准备
 * k8s-master 和 baas-kubeengine 部署同一台centos
   * 将k8s master的$HOME/.kube/config文件 替换 kubeconfig/config
   * 修改配置文件 keconfig.yaml  
