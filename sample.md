@@ -7,7 +7,7 @@
 |djtu17|192.168.101.23|从节点
 * 克隆程序
   `git clone https://github.com/mikewang68/baasmanager`
-### 部署k8s
+### 部署k8s1
   * 系统初始化 （***所有节点都需要做***） 
      * 配置hosts
 
